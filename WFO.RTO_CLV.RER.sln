@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFO.RTO_CLV.RER", "WFO.RTO_CLV.RER\WFO.RTO_CLV.RER.csproj", "{E8FB5855-0CFB-4E27-8B4A-687E149D8773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WFO.RTO_CLV.RERWeb", "WFO.RTO_CLV.RERWeb\WFO.RTO_CLV.RERWeb.csproj", "{124D7AE4-66EF-403D-873A-3EED20A6F221}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8FB5855-0CFB-4E27-8B4A-687E149D8773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8FB5855-0CFB-4E27-8B4A-687E149D8773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8FB5855-0CFB-4E27-8B4A-687E149D8773}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E8FB5855-0CFB-4E27-8B4A-687E149D8773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8FB5855-0CFB-4E27-8B4A-687E149D8773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8FB5855-0CFB-4E27-8B4A-687E149D8773}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{124D7AE4-66EF-403D-873A-3EED20A6F221}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124D7AE4-66EF-403D-873A-3EED20A6F221}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124D7AE4-66EF-403D-873A-3EED20A6F221}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124D7AE4-66EF-403D-873A-3EED20A6F221}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

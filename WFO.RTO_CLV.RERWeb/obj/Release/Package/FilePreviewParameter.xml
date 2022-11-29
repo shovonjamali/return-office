@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="wforto" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^E:\\Jamali\\Lab\\Cadence\\RTO_CLV_RER\\WFO\.RTO_CLV\.RERWeb\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^E:\\Jamali\\Lab\\Cadence\\RTO_CLV_RER\\WFO\.RTO_CLV\.RERWeb\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+</parameters>

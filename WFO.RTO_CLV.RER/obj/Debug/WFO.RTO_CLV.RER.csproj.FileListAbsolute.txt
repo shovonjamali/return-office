@@ -1,0 +1,5 @@
+E:\Jamali\Lab\Cadence C#\RTO_CLV_RER\WFO.RTO_CLV.RER\bin\Debug\WFO.RTO_CLV.RER.pdb
+E:\Jamali\Lab\Cadence C#\RTO_CLV_RER\WFO.RTO_CLV.RER\obj\Debug\WFO.RTO_CLV.RER.csprojAssemblyReference.cache
+E:\Jamali\Lab\Cadence C#\RTO_CLV_RER\WFO.RTO_CLV.RER\obj\Debug\WFO.RTO_CLV.RER.csproj.CoreCompileInputs.cache
+E:\Jamali\Lab\Cadence C#\RTO_CLV_RER\WFO.RTO_CLV.RER\obj\Debug\WFO.RTO_CLV.RER.dll
+E:\Jamali\Lab\Cadence C#\RTO_CLV_RER\WFO.RTO_CLV.RER\obj\Debug\WFO.RTO_CLV.RER.pdb

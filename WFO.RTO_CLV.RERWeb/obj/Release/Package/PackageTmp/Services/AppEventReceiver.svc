@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WFO.RTO_CLV.RERWeb.Services.AppEventReceiver" CodeBehind="AppEventReceiver.svc.cs" %>
